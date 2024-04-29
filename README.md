@@ -6,12 +6,18 @@ Get into a working state and protect your privacy
 
 The program will be always on top to prevent windows show up
 
+Please note this program is now designed for 1080P screens
+
+other resolution will be supported on next vesion
+
 # CH
 簡單、輕量且純粹的畫面遮罩
 
 隨時進入工作狀態並保護螢幕隱私
 
 程式將會維持在最上層，避免視窗彈出
+
+目前程式僅適用於1080P螢幕，其他解析度將會在下一個版本支援
 
 
 # Screenshots
